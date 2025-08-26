@@ -1,6 +1,6 @@
 provider "azurerm" {
   features {}
-  subscription_id = "a93a3898-fc6f-4b79-bb2d-1348e804f8eb"
+  
 }
 
 resource "azurerm_resource_group" "rg" {
